@@ -1,6 +1,6 @@
 # Introduction to Machine Learning
 
-A repository where I save the codes that I have used to learn the basics of ML.
+A repository of codes I used to learn the basics of ML.
 
 ## Machine Learning Recipes (Google Developers)
 
